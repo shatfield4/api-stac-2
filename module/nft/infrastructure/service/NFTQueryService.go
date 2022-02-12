@@ -28,31 +28,31 @@ func (service *NFTQueryService) GetGameStatus(ctx context.Context) types.GameSta
 	var status types.GameStatus
 
 	// get bacons stats
-	baconsMinted, err := service.NFTQueryRepositoryInterface.SelectMintedTokensByMintType("bacon")
+	stonedApesMinted, err := service.NFTQueryRepositoryInterface.SelectMintedTokensByMintType("bacon")
 	if err == nil {
-		status.BaconsMinted = len(baconsMinted)
+		status.BaconsMinted = len(stonedApesMinted)
 	}
-	baconsStaked, err := service.NFTQueryRepositoryInterface.SelectStakedTokensByMintType("bacon")
+	stonedApesStaked, err := service.NFTQueryRepositoryInterface.SelectStakedTokensByMintType("bacon")
 	if err == nil {
-		status.BaconsStaked = len(baconsStaked)
+		status.BaconsStaked = len(stonedApesStaked)
 	}
-	baconsStolen, err := service.NFTQueryRepositoryInterface.SelectStolenTokensByMintType("bacon")
+	stonedApesStolen, err := service.NFTQueryRepositoryInterface.SelectStolenTokensByMintType("bacon")
 	if err == nil {
-		status.BaconsStolen = len(baconsStolen)
+		status.BaconsStolen = len(stonedApesStolen)
 	}
 
 	// get cops stats
-	copsMinted, err := service.NFTQueryRepositoryInterface.SelectMintedTokensByMintType("cop")
+	fedApesMinted, err := service.NFTQueryRepositoryInterface.SelectMintedTokensByMintType("cop")
 	if err == nil {
-		status.CopsMinted = len(copsMinted)
+		status.CopsMinted = len(fedApesMinted)
 	}
-	copsStaked, err := service.NFTQueryRepositoryInterface.SelectStakedTokensByMintType("cop")
+	fedApesStaked, err := service.NFTQueryRepositoryInterface.SelectStakedTokensByMintType("cop")
 	if err == nil {
-		status.CopsStaked = len(copsStaked)
+		status.CopsStaked = len(fedApesStaked)
 	}
-	copsStolen, err := service.NFTQueryRepositoryInterface.SelectStolenTokensByMintType("cop")
+	fedApesStolen, err := service.NFTQueryRepositoryInterface.SelectStolenTokensByMintType("cop")
 	if err == nil {
-		status.CopsStolen = len(copsStolen)
+		status.CopsStolen = len(fedApesStolen)
 	}
 
 	return status
