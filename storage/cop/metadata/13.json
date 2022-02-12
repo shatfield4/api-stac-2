@@ -1,0 +1,41 @@
+{
+    "name": "Stoned Apes #13",
+    "description": "Stoned Apes description",
+    "file_url": "ipfs://QmSR3fsyJ7CTipHMv93wG5HFvUrK29JiTSLiz6PhcNduqa/13.png",
+    "custom_fields": {
+        "dna": "6300e45c30ded111be4386931ecab464e0363581",
+        "edition": 13,
+        "date": 1643086638595,
+        "compiler": "HashLips Art Engine"
+    },
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Leafy Shirt"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Laser Eyes"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Leaf Headband"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "None "
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Mouth"
+        }
+    ]
+}

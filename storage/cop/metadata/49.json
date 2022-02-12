@@ -1,0 +1,41 @@
+{
+    "name": "Stoned Apes #49",
+    "description": "Stoned Apes description",
+    "file_url": "ipfs://QmSR3fsyJ7CTipHMv93wG5HFvUrK29JiTSLiz6PhcNduqa/49.png",
+    "custom_fields": {
+        "dna": "8640a8106295630e2f26800d5ecc07d23b750937",
+        "edition": 49,
+        "date": 1643086782680,
+        "compiler": "HashLips Art Engine"
+    },
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Rolling Stoner"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Winking"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Budhawk"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "None "
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Puff_"
+        }
+    ]
+}

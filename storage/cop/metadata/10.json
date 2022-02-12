@@ -1,0 +1,41 @@
+{
+    "name": "Stoned Apes #10",
+    "description": "Stoned Apes description",
+    "file_url": "ipfs://QmSR3fsyJ7CTipHMv93wG5HFvUrK29JiTSLiz6PhcNduqa/10.png",
+    "custom_fields": {
+        "dna": "e904795be1fcc4d16716f50893cc54884a6a64cb",
+        "edition": 10,
+        "date": 1643086625903,
+        "compiler": "HashLips Art Engine"
+    },
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Eyes"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Fierce Eyes"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Red Headband"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "None "
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Mouth"
+        }
+    ]
+}

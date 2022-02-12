@@ -1,0 +1,41 @@
+{
+    "name": "Stoned Apes #83",
+    "description": "Stoned Apes description",
+    "file_url": "ipfs://QmSR3fsyJ7CTipHMv93wG5HFvUrK29JiTSLiz6PhcNduqa/83.png",
+    "custom_fields": {
+        "dna": "57f4d90d19cb78f0ec07c4399ed1b3cde2202158",
+        "edition": 83,
+        "date": 1643086921009,
+        "compiler": "HashLips Art Engine"
+    },
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Juicy Pink"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Cyborg"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Weed Eyes"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Propeller Hat"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "None "
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Gold Pipe"
+        }
+    ]
+}

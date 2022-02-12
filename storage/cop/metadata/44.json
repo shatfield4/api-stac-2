@@ -1,0 +1,41 @@
+{
+    "name": "Stoned Apes #44",
+    "description": "Stoned Apes description",
+    "file_url": "ipfs://QmSR3fsyJ7CTipHMv93wG5HFvUrK29JiTSLiz6PhcNduqa/44.png",
+    "custom_fields": {
+        "dna": "d8d842df90beec3cf06b9ebeb3a70bb54027b740",
+        "edition": 44,
+        "date": 1643086761487,
+        "compiler": "HashLips Art Engine"
+    },
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Rainbow"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Tie Dye"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "High"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Leaf Headband"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "None "
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Green Tongue"
+        }
+    ]
+}

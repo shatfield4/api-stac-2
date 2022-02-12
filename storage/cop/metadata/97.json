@@ -1,0 +1,41 @@
+{
+    "name": "Stoned Apes #97",
+    "description": "Stoned Apes description",
+    "file_url": "ipfs://QmSR3fsyJ7CTipHMv93wG5HFvUrK29JiTSLiz6PhcNduqa/97.png",
+    "custom_fields": {
+        "dna": "a2bcbdd763e40a717ea7dc14a3e8b71f8c8ca565",
+        "edition": 97,
+        "date": 1643086976468,
+        "compiler": "HashLips Art Engine"
+    },
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Turtleneck"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Rainbow Anime"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Blonde_"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "None "
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Heart Lips"
+        }
+    ]
+}

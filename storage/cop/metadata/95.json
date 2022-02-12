@@ -1,0 +1,41 @@
+{
+    "name": "Stoned Apes #95",
+    "description": "Stoned Apes description",
+    "file_url": "ipfs://QmSR3fsyJ7CTipHMv93wG5HFvUrK29JiTSLiz6PhcNduqa/95.png",
+    "custom_fields": {
+        "dna": "1a32ab71eb80f78ccbd52742257d959562125a57",
+        "edition": 95,
+        "date": 1643086968618,
+        "compiler": "HashLips Art Engine"
+    },
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Turtleneck"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Third Eye"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Sombrero"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "None "
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Weed Beard"
+        }
+    ]
+}

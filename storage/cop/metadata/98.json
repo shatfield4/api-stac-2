@@ -1,0 +1,41 @@
+{
+    "name": "Stoned Apes #98",
+    "description": "Stoned Apes description",
+    "file_url": "ipfs://QmSR3fsyJ7CTipHMv93wG5HFvUrK29JiTSLiz6PhcNduqa/98.png",
+    "custom_fields": {
+        "dna": "352cc0d7d1e9770d7cef71fff0ba771f1d6874df",
+        "edition": 98,
+        "date": 1643086980838,
+        "compiler": "HashLips Art Engine"
+    },
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Farmer Overalls"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Laser Eyes"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Snakeband"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "None "
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Weed Beard"
+        }
+    ]
+}

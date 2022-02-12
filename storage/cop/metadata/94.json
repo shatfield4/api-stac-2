@@ -1,0 +1,41 @@
+{
+    "name": "Stoned Apes #94",
+    "description": "Stoned Apes description",
+    "file_url": "ipfs://QmSR3fsyJ7CTipHMv93wG5HFvUrK29JiTSLiz6PhcNduqa/94.png",
+    "custom_fields": {
+        "dna": "8cf01fd9e6272930cfd4dd60214cbed497efa8f3",
+        "edition": 94,
+        "date": 1643086964502,
+        "compiler": "HashLips Art Engine"
+    },
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Dark Green"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "High"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Bun"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "None "
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Cookie"
+        }
+    ]
+}

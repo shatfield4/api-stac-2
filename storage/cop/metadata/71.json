@@ -1,0 +1,41 @@
+{
+    "name": "Stoned Apes #71",
+    "description": "Stoned Apes description",
+    "file_url": "ipfs://QmSR3fsyJ7CTipHMv93wG5HFvUrK29JiTSLiz6PhcNduqa/71.png",
+    "custom_fields": {
+        "dna": "197a04b556cbe926d17bf922c5b4871f7acc466f",
+        "edition": 71,
+        "date": 1643086871261,
+        "compiler": "HashLips Art Engine"
+    },
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Caramel"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Business Suit"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Chrome Glasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Trucker Hat"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "None "
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Weed Lollipop"
+        }
+    ]
+}

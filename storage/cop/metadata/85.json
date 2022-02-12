@@ -1,0 +1,41 @@
+{
+    "name": "Stoned Apes #85",
+    "description": "Stoned Apes description",
+    "file_url": "ipfs://QmSR3fsyJ7CTipHMv93wG5HFvUrK29JiTSLiz6PhcNduqa/85.png",
+    "custom_fields": {
+        "dna": "01c5c16f254a1917fb32798113f15ef4b3ea6102",
+        "edition": 85,
+        "date": 1643086929018,
+        "compiler": "HashLips Art Engine"
+    },
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Ocean Blue"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Eyes"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Chrome Glasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Dreadlocks"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "None "
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Mouth"
+        }
+    ]
+}
