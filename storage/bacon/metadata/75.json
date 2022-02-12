@@ -1,41 +1,41 @@
 {
-  "name": "Stoned Apes #75",
-  "description": "Stoned Apes description",
-  "file_url": "ipfs://NewUriToReplace/75.png",
-  "custom_fields": {
-    "dna": "3adfc8051d0b136d130c11f4b04e86ed0dbfbbec",
-    "edition": 75,
-    "date": 1643086887375,
-    "compiler": "HashLips Art Engine"
-  },
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Gray"
+    "name": "Stoned Apes #75",
+    "description": "Stoned Apes description",
+    "file_url": "ipfs://QmSR3fsyJ7CTipHMv93wG5HFvUrK29JiTSLiz6PhcNduqa/75.png",
+    "custom_fields": {
+        "dna": "3adfc8051d0b136d130c11f4b04e86ed0dbfbbec",
+        "edition": 75,
+        "date": 1643086887375,
+        "compiler": "HashLips Art Engine"
     },
-    {
-      "trait_type": "Skin",
-      "value": "White Fur"
-    },
-    {
-      "trait_type": "Clothes",
-      "value": "Turtleneck"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Happy High"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Beret"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "None "
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Peach Ring"
-    }
-  ]
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Gray"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "White Fur"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Turtleneck"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Happy High"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Beret"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "None "
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Peach Ring"
+        }
+    ]
 }

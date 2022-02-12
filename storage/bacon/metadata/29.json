@@ -1,41 +1,41 @@
 {
-  "name": "Stoned Apes #29",
-  "description": "Stoned Apes description",
-  "file_url": "ipfs://NewUriToReplace/29.png",
-  "custom_fields": {
-    "dna": "75975e4275a83e311e25681edf3a39d95b3f8c17",
-    "edition": 29,
-    "date": 1643086701053,
-    "compiler": "HashLips Art Engine"
-  },
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Gray"
+    "name": "Stoned Apes #29",
+    "description": "Stoned Apes description",
+    "file_url": "ipfs://QmSR3fsyJ7CTipHMv93wG5HFvUrK29JiTSLiz6PhcNduqa/29.png",
+    "custom_fields": {
+        "dna": "75975e4275a83e311e25681edf3a39d95b3f8c17",
+        "edition": 29,
+        "date": 1643086701053,
+        "compiler": "HashLips Art Engine"
     },
-    {
-      "trait_type": "Skin",
-      "value": "Base Ape"
-    },
-    {
-      "trait_type": "Clothes",
-      "value": "None "
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Green Glow"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Budhawk"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "None "
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Joint"
-    }
-  ]
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Gray"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Base Ape"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Green Glow"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Budhawk"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "None "
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        }
+    ]
 }

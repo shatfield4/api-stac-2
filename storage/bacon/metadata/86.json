@@ -1,41 +1,41 @@
 {
-  "name": "Stoned Apes #86",
-  "description": "Stoned Apes description",
-  "file_url": "ipfs://NewUriToReplace/86.png",
-  "custom_fields": {
-    "dna": "95dafbd26dd525d493ad0beb1352656dbf6a24ee",
-    "edition": 86,
-    "date": 1643086933326,
-    "compiler": "HashLips Art Engine"
-  },
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Green"
+    "name": "Stoned Apes #86",
+    "description": "Stoned Apes description",
+    "file_url": "ipfs://QmSR3fsyJ7CTipHMv93wG5HFvUrK29JiTSLiz6PhcNduqa/86.png",
+    "custom_fields": {
+        "dna": "95dafbd26dd525d493ad0beb1352656dbf6a24ee",
+        "edition": 86,
+        "date": 1643086933326,
+        "compiler": "HashLips Art Engine"
     },
-    {
-      "trait_type": "Skin",
-      "value": "Cyborg"
-    },
-    {
-      "trait_type": "Clothes",
-      "value": "Fur Coat"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Fierce Eyes"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Trucker Hat"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "None "
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Diamond Grills"
-    }
-  ]
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Cyborg"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Fur Coat"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Fierce Eyes"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Trucker Hat"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "None "
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Diamond Grills"
+        }
+    ]
 }

@@ -1,41 +1,41 @@
 {
-  "name": "Stoned Apes #23",
-  "description": "Stoned Apes description",
-  "file_url": "ipfs://NewUriToReplace/23.png",
-  "custom_fields": {
-    "dna": "ecb603ea8cf5f787d29f6a9b6fa0ac3c07ac4bba",
-    "edition": 23,
-    "date": 1643086678521,
-    "compiler": "HashLips Art Engine"
-  },
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Purple"
+    "name": "Stoned Apes #23",
+    "description": "Stoned Apes description",
+    "file_url": "ipfs://QmSR3fsyJ7CTipHMv93wG5HFvUrK29JiTSLiz6PhcNduqa/23.png",
+    "custom_fields": {
+        "dna": "ecb603ea8cf5f787d29f6a9b6fa0ac3c07ac4bba",
+        "edition": 23,
+        "date": 1643086678521,
+        "compiler": "HashLips Art Engine"
     },
-    {
-      "trait_type": "Skin",
-      "value": "Eyes"
-    },
-    {
-      "trait_type": "Clothes",
-      "value": "None "
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Chrome Glasses"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Red Beanie"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "None "
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Umph"
-    }
-  ]
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Eyes"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Chrome Glasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Red Beanie"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "None "
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Umph"
+        }
+    ]
 }

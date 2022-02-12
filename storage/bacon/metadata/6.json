@@ -1,41 +1,41 @@
 {
-  "name": "Stoned Apes #6",
-  "description": "Stoned Apes description",
-  "file_url": "ipfs://NewUriToReplace/6.png",
-  "custom_fields": {
-    "dna": "01df1f4ef90b9d2d2e80a01b8082b7dbc0d484fd",
-    "edition": 6,
-    "date": 1643086610433,
-    "compiler": "HashLips Art Engine"
-  },
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Blue"
+    "name": "Stoned Apes #6",
+    "description": "Stoned Apes description",
+    "file_url": "ipfs://QmSR3fsyJ7CTipHMv93wG5HFvUrK29JiTSLiz6PhcNduqa/6.png",
+    "custom_fields": {
+        "dna": "01df1f4ef90b9d2d2e80a01b8082b7dbc0d484fd",
+        "edition": 6,
+        "date": 1643086610433,
+        "compiler": "HashLips Art Engine"
     },
-    {
-      "trait_type": "Skin",
-      "value": "Pink"
-    },
-    {
-      "trait_type": "Clothes",
-      "value": "Tie Dye"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Sunglasses"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Trucker Hat"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "None "
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Heart Lips"
-    }
-  ]
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Tie Dye"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sunglasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Trucker Hat"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "None "
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Heart Lips"
+        }
+    ]
 }

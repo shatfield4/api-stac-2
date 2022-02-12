@@ -1,41 +1,41 @@
 {
-  "name": "Stoned Apes #43",
-  "description": "Stoned Apes description",
-  "file_url": "ipfs://NewUriToReplace/43.png",
-  "custom_fields": {
-    "dna": "a02c77ee3328bfaf107dccab91d7bc71c1a97b67",
-    "edition": 43,
-    "date": 1643086757329,
-    "compiler": "HashLips Art Engine"
-  },
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Caramel"
+    "name": "Stoned Apes #43",
+    "description": "Stoned Apes description",
+    "file_url": "ipfs://QmSR3fsyJ7CTipHMv93wG5HFvUrK29JiTSLiz6PhcNduqa/43.png",
+    "custom_fields": {
+        "dna": "a02c77ee3328bfaf107dccab91d7bc71c1a97b67",
+        "edition": 43,
+        "date": 1643086757329,
+        "compiler": "HashLips Art Engine"
     },
-    {
-      "trait_type": "Skin",
-      "value": "Base Ape"
-    },
-    {
-      "trait_type": "Clothes",
-      "value": "None "
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Sunglasses"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Leaf Headband"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "None "
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Joint"
-    }
-  ]
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Caramel"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Base Ape"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sunglasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Leaf Headband"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "None "
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Joint"
+        }
+    ]
 }

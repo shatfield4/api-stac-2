@@ -1,41 +1,41 @@
 {
-  "name": "Stoned Apes #90",
-  "description": "Stoned Apes description",
-  "file_url": "ipfs://NewUriToReplace/90.png",
-  "custom_fields": {
-    "dna": "17b71828bc5db674a27ce33fde9d66cccccbc082",
-    "edition": 90,
-    "date": 1643086949626,
-    "compiler": "HashLips Art Engine"
-  },
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Blue"
+    "name": "Stoned Apes #90",
+    "description": "Stoned Apes description",
+    "file_url": "ipfs://QmSR3fsyJ7CTipHMv93wG5HFvUrK29JiTSLiz6PhcNduqa/90.png",
+    "custom_fields": {
+        "dna": "17b71828bc5db674a27ce33fde9d66cccccbc082",
+        "edition": 90,
+        "date": 1643086949626,
+        "compiler": "HashLips Art Engine"
     },
-    {
-      "trait_type": "Skin",
-      "value": "Zombie"
-    },
-    {
-      "trait_type": "Clothes",
-      "value": "None "
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Laser Eyes"
-    },
-    {
-      "trait_type": "Head",
-      "value": "STAC Hat"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "None "
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Weed Lollipop"
-    }
-  ]
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Zombie"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "None "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Laser Eyes"
+        },
+        {
+            "trait_type": "Head",
+            "value": "STAC Hat"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "None "
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Weed Lollipop"
+        }
+    ]
 }

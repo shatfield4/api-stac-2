@@ -1,45 +1,45 @@
 {
-  "name": "Stoned Apes #18",
-  "description": "Stoned Apes description",
-  "file_url": "ipfs://NewUriToReplace/18.png",
-  "custom_fields": {
-    "dna": "785a7ccb55b40733719afca8ba663e1af53cc393",
-    "edition": 18,
-    "date": 1641806993058,
-    "compiler": "HashLips Art Engine"
-  },
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Red"
+    "name": "Stoned Apes #18",
+    "description": "Stoned Apes description",
+    "file_url": "ipfs://QmdNkShw64QsKs5CokKq1NCrWCMorJRK8DwgMFxeWsrGCe/18.png",
+    "custom_fields": {
+        "dna": "785a7ccb55b40733719afca8ba663e1af53cc393",
+        "edition": 18,
+        "date": 1641806993058,
+        "compiler": "HashLips Art Engine"
     },
-    {
-      "trait_type": "Skin",
-      "value": "Base Ape"
-    },
-    {
-      "trait_type": "Clothes",
-      "value": "Bulletproof Vest"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Weed Eyes"
-    },
-    {
-      "trait_type": "Glasses",
-      "value": "None "
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Warrant"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Swat Helmet"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Whistle"
-    }
-  ]
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Base Ape"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Bulletproof Vest"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Weed Eyes"
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "None "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Warrant"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Swat Helmet"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Whistle"
+        }
+    ]
 }

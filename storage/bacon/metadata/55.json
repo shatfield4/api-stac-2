@@ -1,41 +1,41 @@
 {
-  "name": "Stoned Apes #55",
-  "description": "Stoned Apes description",
-  "file_url": "ipfs://NewUriToReplace/55.png",
-  "custom_fields": {
-    "dna": "a275d03e58058bfdb860dabc8655041c84b37eb3",
-    "edition": 55,
-    "date": 1643086807863,
-    "compiler": "HashLips Art Engine"
-  },
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Caramel"
+    "name": "Stoned Apes #55",
+    "description": "Stoned Apes description",
+    "file_url": "ipfs://QmSR3fsyJ7CTipHMv93wG5HFvUrK29JiTSLiz6PhcNduqa/55.png",
+    "custom_fields": {
+        "dna": "a275d03e58058bfdb860dabc8655041c84b37eb3",
+        "edition": 55,
+        "date": 1643086807863,
+        "compiler": "HashLips Art Engine"
     },
-    {
-      "trait_type": "Skin",
-      "value": "Pink"
-    },
-    {
-      "trait_type": "Clothes",
-      "value": "Turtleneck"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "High"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Sombrero"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "None "
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Heart Lips"
-    }
-  ]
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Caramel"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Turtleneck"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "High"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Sombrero"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "None "
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Heart Lips"
+        }
+    ]
 }

@@ -1,41 +1,41 @@
 {
-  "name": "Stoned Apes #4",
-  "description": "Stoned Apes description",
-  "file_url": "ipfs://NewUriToReplace/4.png",
-  "custom_fields": {
-    "dna": "3e9635c624bb99c9a2b622627c6f86365edfe59c",
-    "edition": 4,
-    "date": 1643086602000,
-    "compiler": "HashLips Art Engine"
-  },
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Green"
+    "name": "Stoned Apes #4",
+    "description": "Stoned Apes description",
+    "file_url": "ipfs://QmSR3fsyJ7CTipHMv93wG5HFvUrK29JiTSLiz6PhcNduqa/4.png",
+    "custom_fields": {
+        "dna": "3e9635c624bb99c9a2b622627c6f86365edfe59c",
+        "edition": 4,
+        "date": 1643086602000,
+        "compiler": "HashLips Art Engine"
     },
-    {
-      "trait_type": "Skin",
-      "value": "Fire"
-    },
-    {
-      "trait_type": "Clothes",
-      "value": "Pink Polo"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Third Eye"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Astronaut Helmet"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "None "
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "T Joint"
-    }
-  ]
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Fire"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Pink Polo"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Third Eye"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Astronaut Helmet"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "None "
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "T Joint"
+        }
+    ]
 }

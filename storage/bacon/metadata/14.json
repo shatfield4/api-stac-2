@@ -1,41 +1,41 @@
 {
-  "name": "Stoned Apes #14",
-  "description": "Stoned Apes description",
-  "file_url": "ipfs://NewUriToReplace/14.png",
-  "custom_fields": {
-    "dna": "602f605331bf219292d60e4c36afd649f66882e6",
-    "edition": 14,
-    "date": 1643086642772,
-    "compiler": "HashLips Art Engine"
-  },
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Pink"
+    "name": "Stoned Apes #14",
+    "description": "Stoned Apes description",
+    "file_url": "ipfs://QmSR3fsyJ7CTipHMv93wG5HFvUrK29JiTSLiz6PhcNduqa/14.png",
+    "custom_fields": {
+        "dna": "602f605331bf219292d60e4c36afd649f66882e6",
+        "edition": 14,
+        "date": 1643086642772,
+        "compiler": "HashLips Art Engine"
     },
-    {
-      "trait_type": "Skin",
-      "value": "Eyes"
-    },
-    {
-      "trait_type": "Clothes",
-      "value": "Rolling Stoner"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Nerd Glasses"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Trucker Hat"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "None "
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Gold Teeth"
-    }
-  ]
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Eyes"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Rolling Stoner"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Nerd Glasses"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Trucker Hat"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "None "
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Gold Teeth"
+        }
+    ]
 }

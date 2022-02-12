@@ -1,41 +1,41 @@
 {
-  "name": "Stoned Apes #5",
-  "description": "Stoned Apes description",
-  "file_url": "ipfs://NewUriToReplace/5.png",
-  "custom_fields": {
-    "dna": "aff46b0ba617cea4b84cd1ffc0eff913730ba070",
-    "edition": 5,
-    "date": 1643086606174,
-    "compiler": "HashLips Art Engine"
-  },
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Yellow"
+    "name": "Stoned Apes #5",
+    "description": "Stoned Apes description",
+    "file_url": "ipfs://QmSR3fsyJ7CTipHMv93wG5HFvUrK29JiTSLiz6PhcNduqa/5.png",
+    "custom_fields": {
+        "dna": "aff46b0ba617cea4b84cd1ffc0eff913730ba070",
+        "edition": 5,
+        "date": 1643086606174,
+        "compiler": "HashLips Art Engine"
     },
-    {
-      "trait_type": "Skin",
-      "value": "White Fur"
-    },
-    {
-      "trait_type": "Clothes",
-      "value": "Rolling Stoner"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Winking"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Straw Hat"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "None "
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Mouth"
-    }
-  ]
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "White Fur"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Rolling Stoner"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Winking"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Straw Hat"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "None "
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Mouth"
+        }
+    ]
 }

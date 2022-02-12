@@ -1,41 +1,41 @@
 {
-  "name": "Stoned Apes #59",
-  "description": "Stoned Apes description",
-  "file_url": "ipfs://NewUriToReplace/59.png",
-  "custom_fields": {
-    "dna": "d765a392810d7330d0a4e78b6bd8e32b268c7e79",
-    "edition": 59,
-    "date": 1643086823336,
-    "compiler": "HashLips Art Engine"
-  },
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Dark Green"
+    "name": "Stoned Apes #59",
+    "description": "Stoned Apes description",
+    "file_url": "ipfs://QmSR3fsyJ7CTipHMv93wG5HFvUrK29JiTSLiz6PhcNduqa/59.png",
+    "custom_fields": {
+        "dna": "d765a392810d7330d0a4e78b6bd8e32b268c7e79",
+        "edition": 59,
+        "date": 1643086823336,
+        "compiler": "HashLips Art Engine"
     },
-    {
-      "trait_type": "Skin",
-      "value": "Pink"
-    },
-    {
-      "trait_type": "Clothes",
-      "value": "Tank Top"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Rainbow Anime"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Leaf Headband"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "None "
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Heart Lips"
-    }
-  ]
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Dark Green"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Tank Top"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Rainbow Anime"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Leaf Headband"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "None "
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Heart Lips"
+        }
+    ]
 }

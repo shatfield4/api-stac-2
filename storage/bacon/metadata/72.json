@@ -1,41 +1,41 @@
 {
-  "name": "Stoned Apes #72",
-  "description": "Stoned Apes description",
-  "file_url": "ipfs://NewUriToReplace/72.png",
-  "custom_fields": {
-    "dna": "f94ce60ce3b3b514e473957b0c3e0930be7d64e7",
-    "edition": 72,
-    "date": 1643086875463,
-    "compiler": "HashLips Art Engine"
-  },
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Yellow"
+    "name": "Stoned Apes #72",
+    "description": "Stoned Apes description",
+    "file_url": "ipfs://QmSR3fsyJ7CTipHMv93wG5HFvUrK29JiTSLiz6PhcNduqa/72.png",
+    "custom_fields": {
+        "dna": "f94ce60ce3b3b514e473957b0c3e0930be7d64e7",
+        "edition": 72,
+        "date": 1643086875463,
+        "compiler": "HashLips Art Engine"
     },
-    {
-      "trait_type": "Skin",
-      "value": "White Fur"
-    },
-    {
-      "trait_type": "Clothes",
-      "value": "Stoner"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Weed Eyes"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Budhawk"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "None "
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Puff_"
-    }
-  ]
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "White Fur"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Stoner"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Weed Eyes"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Budhawk"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "None "
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Puff_"
+        }
+    ]
 }
