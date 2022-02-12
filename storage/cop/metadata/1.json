@@ -3,15 +3,15 @@
     "description": "Stoned Apes description",
     "file_url": "ipfs://QmdNkShw64QsKs5CokKq1NCrWCMorJRK8DwgMFxeWsrGCe/1.png",
     "custom_fields": {
-        "dna": "52c55bbd57192b999a3f90579a4bc51bd30c579a",
-        "edition": 1,
-        "date": 1641806905999,
+        "dna": "81f78984fa0a9b71b6f1c16e188812d5c13027a8",
+        "edition": 2,
+        "date": 1641806910800,
         "compiler": "HashLips Art Engine"
     },
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Pink"
+            "value": "Caramel"
         },
         {
             "trait_type": "Skin",
@@ -19,15 +19,15 @@
         },
         {
             "trait_type": "Clothes",
-            "value": "Navy Uniform"
+            "value": "Black Uniform"
         },
         {
             "trait_type": "Eyes",
-            "value": "3rd Weed Eye"
+            "value": "Weed Eyes"
         },
         {
             "trait_type": "Glasses",
-            "value": "Nerd Glasses "
+            "value": "None "
         },
         {
             "trait_type": "Accessory",
@@ -35,12 +35,11 @@
         },
         {
             "trait_type": "Head",
-            "value": "Police Hat"
+            "value": "Swat Helmet"
         },
         {
             "trait_type": "Mouth",
-            "value": "Handcuffs"
+            "value": "Badge"
         }
     ]
-}]
 }
