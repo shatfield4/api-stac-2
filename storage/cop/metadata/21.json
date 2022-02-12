@@ -1,41 +1,45 @@
 {
-    "name": "Stoned Apes #21",
+    "name": "Fed Ape #21",
     "description": "Stoned Apes description",
-    "file_url": "ipfs://QmSR3fsyJ7CTipHMv93wG5HFvUrK29JiTSLiz6PhcNduqa/21.png",
+    "file_url": "ipfs://NewUriToReplace/21.png",
     "custom_fields": {
-        "dna": "39d74416910b64044ce167e8f7b2e6a32fbd5044",
+        "dna": "9361455d049b00c0518fe2ff252398551dcd40cb",
         "edition": 21,
-        "date": 1643086670734,
+        "date": 1641807008950,
         "compiler": "HashLips Art Engine"
     },
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Caramel"
+            "value": "Purple"
         },
         {
             "trait_type": "Skin",
-            "value": "Orange"
+            "value": "Base Ape"
         },
         {
             "trait_type": "Clothes",
-            "value": "None "
+            "value": "Navy Uniform"
         },
         {
             "trait_type": "Eyes",
-            "value": "Heart Glasses"
+            "value": "3rd Weed Eye"
         },
         {
-            "trait_type": "Head",
-            "value": "Red Headband"
+            "trait_type": "Glasses",
+            "value": "Nerd Glasses "
         },
         {
             "trait_type": "Accessory",
-            "value": "None "
+            "value": "Baton"
+        },
+        {
+            "trait_type": "Head",
+            "value": "DEA Hat"
         },
         {
             "trait_type": "Mouth",
-            "value": "O Puff"
+            "value": "Handcuffs"
         }
     ]
 }

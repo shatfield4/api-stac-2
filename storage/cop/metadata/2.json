@@ -1,41 +1,45 @@
 {
-    "name": "Stoned Apes #2",
+    "name": "Fed Ape #2",
     "description": "Stoned Apes description",
-    "file_url": "ipfs://QmSR3fsyJ7CTipHMv93wG5HFvUrK29JiTSLiz6PhcNduqa/2.png",
+    "file_url": "ipfs://NewUriToReplace/2.png",
     "custom_fields": {
-        "dna": "ea4ceec14a7c31dd8af7127534ab329ffa38deaa",
+        "dna": "81f78984fa0a9b71b6f1c16e188812d5c13027a8",
         "edition": 2,
-        "date": 1643086593515,
+        "date": 1641806910800,
         "compiler": "HashLips Art Engine"
     },
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Ocean Blue"
+            "value": "Caramel"
         },
         {
             "trait_type": "Skin",
-            "value": "Blue"
+            "value": "Base Ape"
         },
         {
             "trait_type": "Clothes",
-            "value": "Mafia Suit"
+            "value": "Black Uniform"
         },
         {
             "trait_type": "Eyes",
-            "value": "Sunglasses"
+            "value": "Weed Eyes"
         },
         {
-            "trait_type": "Head",
-            "value": "Bucket Hat"
-        },
-        {
-            "trait_type": "Accessory",
+            "trait_type": "Glasses",
             "value": "None "
         },
         {
+            "trait_type": "Accessory",
+            "value": "Warrant"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Swat Helmet"
+        },
+        {
             "trait_type": "Mouth",
-            "value": "Gas Bong"
+            "value": "Badge"
         }
     ]
 }

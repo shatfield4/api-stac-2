@@ -1,41 +1,45 @@
 {
-    "name": "Stoned Apes #4",
+    "name": "Fed Ape #4",
     "description": "Stoned Apes description",
-    "file_url": "ipfs://QmSR3fsyJ7CTipHMv93wG5HFvUrK29JiTSLiz6PhcNduqa/4.png",
+    "file_url": "ipfs://NewUriToReplace/4.png",
     "custom_fields": {
-        "dna": "3e9635c624bb99c9a2b622627c6f86365edfe59c",
+        "dna": "e6b1ce947fd2e068c572692b0a4d2a3368521329",
         "edition": 4,
-        "date": 1643086602000,
+        "date": 1641806920842,
         "compiler": "HashLips Art Engine"
     },
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Green"
+            "value": "Red"
         },
         {
             "trait_type": "Skin",
-            "value": "Fire"
+            "value": "Base Ape"
         },
         {
             "trait_type": "Clothes",
-            "value": "Pink Polo"
+            "value": "Light Blue Uniform"
         },
         {
             "trait_type": "Eyes",
-            "value": "Third Eye"
+            "value": "Angry Twitch"
         },
         {
-            "trait_type": "Head",
-            "value": "Astronaut Helmet"
-        },
-        {
-            "trait_type": "Accessory",
+            "trait_type": "Glasses",
             "value": "None "
         },
         {
+            "trait_type": "Accessory",
+            "value": "Baton"
+        },
+        {
+            "trait_type": "Head",
+            "value": "FBI Hat"
+        },
+        {
             "trait_type": "Mouth",
-            "value": "T Joint"
+            "value": "Badge"
         }
     ]
 }

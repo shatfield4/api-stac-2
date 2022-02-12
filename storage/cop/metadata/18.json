@@ -1,41 +1,45 @@
 {
-    "name": "Stoned Apes #18",
+    "name": "Fed Ape #18",
     "description": "Stoned Apes description",
-    "file_url": "ipfs://QmSR3fsyJ7CTipHMv93wG5HFvUrK29JiTSLiz6PhcNduqa/18.png",
+    "file_url": "ipfs://NewUriToReplace/18.png",
     "custom_fields": {
-        "dna": "916c67fae72ad0219a4b68c5c4f6d7f18be8a937",
+        "dna": "785a7ccb55b40733719afca8ba663e1af53cc393",
         "edition": 18,
-        "date": 1643086659565,
+        "date": 1641806993058,
         "compiler": "HashLips Art Engine"
     },
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Green"
+            "value": "Red"
         },
         {
             "trait_type": "Skin",
-            "value": "Blue Sparkle"
+            "value": "Base Ape"
         },
         {
             "trait_type": "Clothes",
-            "value": "Mafia Suit"
+            "value": "Bulletproof Vest"
         },
         {
             "trait_type": "Eyes",
-            "value": "Rainbow Anime"
+            "value": "Weed Eyes"
         },
         {
-            "trait_type": "Head",
-            "value": "Pom Beanie"
-        },
-        {
-            "trait_type": "Accessory",
+            "trait_type": "Glasses",
             "value": "None "
         },
         {
+            "trait_type": "Accessory",
+            "value": "Warrant"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Swat Helmet"
+        },
+        {
             "trait_type": "Mouth",
-            "value": "Mouth"
+            "value": "Whistle"
         }
     ]
 }

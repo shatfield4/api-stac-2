@@ -1,41 +1,45 @@
 {
-    "name": "Stoned Apes #5",
+    "name": "Fed Ape #5",
     "description": "Stoned Apes description",
-    "file_url": "ipfs://QmSR3fsyJ7CTipHMv93wG5HFvUrK29JiTSLiz6PhcNduqa/5.png",
+    "file_url": "ipfs://NewUriToReplace/5.png",
     "custom_fields": {
-        "dna": "aff46b0ba617cea4b84cd1ffc0eff913730ba070",
+        "dna": "65f4c4b512da772d4e33f5f53df8a30a0ca72e21",
         "edition": 5,
-        "date": 1643086606174,
+        "date": 1641806925799,
         "compiler": "HashLips Art Engine"
     },
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Yellow"
+            "value": "Pink"
         },
         {
             "trait_type": "Skin",
-            "value": "White Fur"
+            "value": "Base Ape"
         },
         {
             "trait_type": "Clothes",
-            "value": "Rolling Stoner"
+            "value": "Bulletproof Vest"
         },
         {
             "trait_type": "Eyes",
-            "value": "Winking"
+            "value": "Happy High"
         },
         {
-            "trait_type": "Head",
-            "value": "Straw Hat"
-        },
-        {
-            "trait_type": "Accessory",
+            "trait_type": "Glasses",
             "value": "None "
         },
         {
+            "trait_type": "Accessory",
+            "value": "Baton"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Swat Helmet"
+        },
+        {
             "trait_type": "Mouth",
-            "value": "Mouth"
+            "value": "Handcuffs"
         }
     ]
 }

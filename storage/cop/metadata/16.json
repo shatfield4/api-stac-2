@@ -1,41 +1,45 @@
 {
-    "name": "Stoned Apes #16",
+    "name": "Fed Ape #16",
     "description": "Stoned Apes description",
-    "file_url": "ipfs://QmSR3fsyJ7CTipHMv93wG5HFvUrK29JiTSLiz6PhcNduqa/16.png",
+    "file_url": "ipfs://NewUriToReplace/16.png",
     "custom_fields": {
-        "dna": "d64a6ac0f1f1c49a611d8a874705677ea4a3a17f",
+        "dna": "64ac7ca94f64e0a3ace3ea8a8fcd3f083f9c2ee0",
         "edition": 16,
-        "date": 1643086651184,
+        "date": 1641806982639,
         "compiler": "HashLips Art Engine"
     },
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Yellow"
+            "value": "Dark Green"
         },
         {
             "trait_type": "Skin",
-            "value": "Blue"
+            "value": "Base Ape"
         },
         {
             "trait_type": "Clothes",
-            "value": "Hawaiian Shirt"
+            "value": "Bulletproof Vest"
         },
         {
             "trait_type": "Eyes",
-            "value": "High"
+            "value": "Weed Eyes"
         },
         {
-            "trait_type": "Head",
-            "value": "Blonde_"
-        },
-        {
-            "trait_type": "Accessory",
+            "trait_type": "Glasses",
             "value": "None "
         },
         {
+            "trait_type": "Accessory",
+            "value": "Baton"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Police Hat"
+        },
+        {
             "trait_type": "Mouth",
-            "value": "Joint"
+            "value": "Handcuffs"
         }
     ]
 }

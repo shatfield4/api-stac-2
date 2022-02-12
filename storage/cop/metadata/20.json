@@ -1,41 +1,45 @@
 {
-    "name": "Stoned Apes #20",
+    "name": "Fed Ape #20",
     "description": "Stoned Apes description",
-    "file_url": "ipfs://QmSR3fsyJ7CTipHMv93wG5HFvUrK29JiTSLiz6PhcNduqa/20.png",
+    "file_url": "ipfs://NewUriToReplace/20.png",
     "custom_fields": {
-        "dna": "a5343cfc12c15f10abf7e0d9382b8d5e5e94209f",
+        "dna": "d867b2e4730b02bd42789bc24a5dc332c6b71ef7",
         "edition": 20,
-        "date": 1643086667234,
+        "date": 1641807003325,
         "compiler": "HashLips Art Engine"
     },
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Yellow"
+            "value": "Red"
         },
         {
             "trait_type": "Skin",
-            "value": "Blue"
+            "value": "Base Ape"
         },
         {
             "trait_type": "Clothes",
-            "value": "Hawaiian Shirt"
+            "value": "Black Uniform"
         },
         {
             "trait_type": "Eyes",
-            "value": "Weed Eyes"
+            "value": "Angry Twitch"
         },
         {
-            "trait_type": "Head",
-            "value": "Tie Dye Hat"
+            "trait_type": "Glasses",
+            "value": "Nerd Glasses "
         },
         {
             "trait_type": "Accessory",
-            "value": "None "
+            "value": "Baton"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Police Hat"
         },
         {
             "trait_type": "Mouth",
-            "value": "T Joint"
+            "value": "Whistle"
         }
     ]
 }

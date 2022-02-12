@@ -1,41 +1,45 @@
 {
-    "name": "Stoned Apes #23",
+    "name": "Fed Ape #23",
     "description": "Stoned Apes description",
-    "file_url": "ipfs://QmSR3fsyJ7CTipHMv93wG5HFvUrK29JiTSLiz6PhcNduqa/23.png",
+    "file_url": "ipfs://NewUriToReplace/23.png",
     "custom_fields": {
-        "dna": "ecb603ea8cf5f787d29f6a9b6fa0ac3c07ac4bba",
+        "dna": "b532bc766e74851babaebc8282ecc87fd73a8896",
         "edition": 23,
-        "date": 1643086678521,
+        "date": 1641807019026,
         "compiler": "HashLips Art Engine"
     },
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Purple"
+            "value": "Orange"
         },
         {
             "trait_type": "Skin",
-            "value": "Eyes"
+            "value": "Base Ape"
         },
         {
             "trait_type": "Clothes",
-            "value": "None "
+            "value": "Navy Uniform"
         },
         {
             "trait_type": "Eyes",
-            "value": "Chrome Glasses"
+            "value": "Glowing Green"
         },
         {
-            "trait_type": "Head",
-            "value": "Red Beanie"
-        },
-        {
-            "trait_type": "Accessory",
+            "trait_type": "Glasses",
             "value": "None "
         },
         {
+            "trait_type": "Accessory",
+            "value": "Warrant"
+        },
+        {
+            "trait_type": "Head",
+            "value": "DEA Hat"
+        },
+        {
             "trait_type": "Mouth",
-            "value": "Umph"
+            "value": "Badge"
         }
     ]
 }
