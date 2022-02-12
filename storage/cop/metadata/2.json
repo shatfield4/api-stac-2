@@ -3,43 +3,39 @@
     "description": "Stoned Apes description",
     "file_url": "ipfs://QmdNkShw64QsKs5CokKq1NCrWCMorJRK8DwgMFxeWsrGCe/2.png",
     "custom_fields": {
-        "dna": "81f78984fa0a9b71b6f1c16e188812d5c13027a8",
-        "edition": 2,
-        "date": 1641806910800,
+        "dna": "9b1882b660dc01773e21815150ac97d1c3190f8b",
+        "edition": 1,
+        "date": 1643086589368,
         "compiler": "HashLips Art Engine"
     },
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Caramel"
+            "value": "Green"
         },
         {
             "trait_type": "Skin",
-            "value": "Base Ape"
+            "value": "Blue"
         },
         {
             "trait_type": "Clothes",
-            "value": "Black Uniform"
+            "value": "Leather Jacket"
         },
         {
             "trait_type": "Eyes",
-            "value": "Weed Eyes"
-        },
-        {
-            "trait_type": "Glasses",
-            "value": "None "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Warrant"
+            "value": "Chrome Glasses"
         },
         {
             "trait_type": "Head",
-            "value": "Swat Helmet"
+            "value": "Red Beanie"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "None "
         },
         {
             "trait_type": "Mouth",
-            "value": "Badge"
+            "value": "O Puff"
         }
     ]
 }
