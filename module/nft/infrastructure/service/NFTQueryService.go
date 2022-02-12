@@ -61,8 +61,8 @@ func (service *NFTQueryService) GetGameStatus(ctx context.Context) types.GameSta
 // GetNFTByID retrieves the nft provided by its id
 func (service *NFTQueryService) GetNFTByID(ctx context.Context, ID int64) map[string]interface{} {
 	placeHolderMetadata := map[string]interface{}{
-		"name":         "Unknown NFT",
-		"description":  "Unknown NFT",
+		"name":         "STAC",
+		"description":  "Stoned Aped Club",
 		"image":        "ipfs://QmPUCaXzKjGzzFte3UoQHTBiRAxsvfVj222CiiGCSFK6CF",
 		"external_url": "ipfs://QmPUCaXzKjGzzFte3UoQHTBiRAxsvfVj222CiiGCSFK6CF",
 		"attributes":   []string{},
