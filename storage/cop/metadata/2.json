@@ -1,5 +1,5 @@
 {
-    "name": "Stoned Apes #2",
+    "name": "Fed Ape #2",
     "description": "Stoned Apes description",
     "file_url": "ipfs://QmdNkShw64QsKs5CokKq1NCrWCMorJRK8DwgMFxeWsrGCe/2.png",
     "custom_fields": {
@@ -42,4 +42,5 @@
             "value": "Badge"
         }
     ]
+}]
 }
