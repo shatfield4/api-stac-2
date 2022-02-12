@@ -1,17 +1,17 @@
 {
-    "name": "Fed Ape #2",
+    "name": "Stoned Apes #2",
     "description": "Stoned Apes description",
-    "file_url": "ipfs://QmdNkShw64QsKs5CokKq1NCrWCMorJRK8DwgMFxeWsrGCe/2.png",
+    "file_url": "ipfs://QmSR3fsyJ7CTipHMv93wG5HFvUrK29JiTSLiz6PhcNduqa/2.png",
     "custom_fields": {
-        "dna": "9b1882b660dc01773e21815150ac97d1c3190f8b",
-        "edition": 1,
-        "date": 1643086589368,
+        "dna": "ea4ceec14a7c31dd8af7127534ab329ffa38deaa",
+        "edition": 2,
+        "date": 1643086593515,
         "compiler": "HashLips Art Engine"
     },
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Green"
+            "value": "Ocean Blue"
         },
         {
             "trait_type": "Skin",
@@ -19,15 +19,15 @@
         },
         {
             "trait_type": "Clothes",
-            "value": "Leather Jacket"
+            "value": "Mafia Suit"
         },
         {
             "trait_type": "Eyes",
-            "value": "Chrome Glasses"
+            "value": "Sunglasses"
         },
         {
             "trait_type": "Head",
-            "value": "Red Beanie"
+            "value": "Bucket Hat"
         },
         {
             "trait_type": "Accessory",
@@ -35,7 +35,7 @@
         },
         {
             "trait_type": "Mouth",
-            "value": "O Puff"
+            "value": "Gas Bong"
         }
     ]
 }

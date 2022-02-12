@@ -80,6 +80,8 @@ func (service *NFTQueryService) GetNFTByID(ctx context.Context, ID int64) map[st
 	isCop := service.IsCop(ID)
 	if isCop {
 		metadataPath = constants.CopNFTMetadataPath
+		log.Println("This is a cop")
+
 	}
 
 	var metadata map[string]interface{}
