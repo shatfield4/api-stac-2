@@ -25,7 +25,7 @@ vendor/
 bin
 
 # cache files
-storage/bacon/metadata
-storage/bacon/images
-storage/cop/metadata
-storage/cop/images
+# storage/bacon/metadata
+# storage/bacon/images
+# storage/cop/metadata
+# storage/cop/images

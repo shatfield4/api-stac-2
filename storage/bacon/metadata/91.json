@@ -1,0 +1,41 @@
+{
+  "name": "Stoned Apes #91",
+  "description": "Stoned Apes description",
+  "file_url": "ipfs://NewUriToReplace/91.png",
+  "custom_fields": {
+    "dna": "bc0b0b60e5d9e4bd952633b9754efc00b541e24f",
+    "edition": 91,
+    "date": 1643086953868,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Base Ape"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Basketball Jersey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy High"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Astronaut Helmet"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None "
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blunt"
+    }
+  ]
+}

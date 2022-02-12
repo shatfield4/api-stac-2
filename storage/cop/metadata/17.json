@@ -1,0 +1,45 @@
+{
+  "name": "Stoned Apes #17",
+  "description": "Stoned Apes description",
+  "file_url": "ipfs://NewUriToReplace/17.png",
+  "custom_fields": {
+    "dna": "7f2a466d4f34c04f803df23bb8ae5f65bdee5b8a",
+    "edition": 17,
+    "date": 1641806988164,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Base Ape"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Black Uniform"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Weed Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Rainbow Glasses "
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Baton"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Swat Helmet"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handcuffs"
+    }
+  ]
+}

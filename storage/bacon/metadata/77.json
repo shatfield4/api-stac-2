@@ -1,0 +1,41 @@
+{
+  "name": "Stoned Apes #77",
+  "description": "Stoned Apes description",
+  "file_url": "ipfs://NewUriToReplace/77.png",
+  "custom_fields": {
+    "dna": "a51b106df6f41d64995e674f6dad9cd0ac47d1be",
+    "edition": 77,
+    "date": 1643086895419,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Stone_"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hawaiian Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Weed Eyes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beret"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None "
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blunt"
+    }
+  ]
+}

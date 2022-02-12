@@ -1,0 +1,45 @@
+{
+  "name": "Stoned Apes #25",
+  "description": "Stoned Apes description",
+  "file_url": "ipfs://NewUriToReplace/25.png",
+  "custom_fields": {
+    "dna": "482a8f9d949381d0083b1723a4f8337b5332ed16",
+    "edition": 25,
+    "date": 1641807030242,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Base Ape"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Navy Uniform"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Winking Blue"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Rainbow Glasses "
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Baton"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FBI Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Whistle"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Stoned Apes #10",
+  "description": "Stoned Apes description",
+  "file_url": "ipfs://NewUriToReplace/10.png",
+  "custom_fields": {
+    "dna": "8d7cc6fb3b5757879835c8023eebd64e47f74cb8",
+    "edition": 10,
+    "date": 1641806950941,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Base Ape"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Light Blue Uniform"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy High"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None "
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Baton"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Police Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Whistle"
+    }
+  ]
+}

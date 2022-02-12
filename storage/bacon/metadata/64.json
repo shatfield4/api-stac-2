@@ -1,0 +1,41 @@
+{
+  "name": "Stoned Apes #64",
+  "description": "Stoned Apes description",
+  "file_url": "ipfs://NewUriToReplace/64.png",
+  "custom_fields": {
+    "dna": "aaa004cd6d8acfa5fcd89ea7282cdb34dc768a07",
+    "edition": 64,
+    "date": 1643086843602,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tracksuit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Weed Eyes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Snakeband"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None "
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Joint"
+    }
+  ]
+}

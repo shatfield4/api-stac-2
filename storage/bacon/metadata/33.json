@@ -1,0 +1,41 @@
+{
+  "name": "Stoned Apes #33",
+  "description": "Stoned Apes description",
+  "file_url": "ipfs://NewUriToReplace/33.png",
+  "custom_fields": {
+    "dna": "8930acd908ed93e662cb7e6c620095c89148aaa2",
+    "edition": 33,
+    "date": 1643086717713,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "White Fur"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Pink Polo"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None "
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Pipe"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Stoned Apes #30",
+  "description": "Stoned Apes description",
+  "file_url": "ipfs://NewUriToReplace/30.png",
+  "custom_fields": {
+    "dna": "84c822a56f5402dbb315b6917190c51d9046c921",
+    "edition": 30,
+    "date": 1643086705232,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Weed Bud"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Business Suit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tie Dye Hat"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None "
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

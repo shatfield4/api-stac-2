@@ -1,0 +1,41 @@
+{
+  "name": "Stoned Apes #73",
+  "description": "Stoned Apes description",
+  "file_url": "ipfs://NewUriToReplace/73.png",
+  "custom_fields": {
+    "dna": "b972f347829d9e79781bf42f9961f0a30264eef7",
+    "edition": 73,
+    "date": 1643086879740,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Eyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Turtleneck"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tie Dye Hat"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None "
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "T Joint"
+    }
+  ]
+}

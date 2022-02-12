@@ -1,0 +1,41 @@
+{
+  "name": "Stoned Apes #51",
+  "description": "Stoned Apes description",
+  "file_url": "ipfs://NewUriToReplace/51.png",
+  "custom_fields": {
+    "dna": "f9393d770879b9adc9e0c8a506e6a71df30192f0",
+    "edition": 51,
+    "date": 1643086790806,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Weed Leaf"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Third Eye"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Straw Hat"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None "
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Green Tongue"
+    }
+  ]
+}

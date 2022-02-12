@@ -1,0 +1,41 @@
+{
+  "name": "Stoned Apes #52",
+  "description": "Stoned Apes description",
+  "file_url": "ipfs://NewUriToReplace/52.png",
+  "custom_fields": {
+    "dna": "3ff90ee0039e4b3719d9ec1afdfeaf2c6bfcf52b",
+    "edition": 52,
+    "date": 1643086795239,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Leafy Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Budhawk"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None "
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "O Puff"
+    }
+  ]
+}

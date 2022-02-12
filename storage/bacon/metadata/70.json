@@ -1,0 +1,41 @@
+{
+  "name": "Stoned Apes #70",
+  "description": "Stoned Apes description",
+  "file_url": "ipfs://NewUriToReplace/70.png",
+  "custom_fields": {
+    "dna": "af38fc6ac9c6304a2180d97fb8d2e156ff76392e",
+    "edition": 70,
+    "date": 1643086866948,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Gorilla"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Turtleneck"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Anime"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Hombre"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None "
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Heart Lips"
+    }
+  ]
+}

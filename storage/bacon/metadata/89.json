@@ -1,0 +1,41 @@
+{
+  "name": "Stoned Apes #89",
+  "description": "Stoned Apes description",
+  "file_url": "ipfs://NewUriToReplace/89.png",
+  "custom_fields": {
+    "dna": "fb99647d7a96750cef06a062fbd15064a75d9382",
+    "edition": 89,
+    "date": 1643086945756,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Caramel"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Blue Sparkle"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Turtleneck"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser Eyes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bun"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None "
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Teeth"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Stoned Apes #17",
+  "description": "Stoned Apes description",
+  "file_url": "ipfs://NewUriToReplace/17.png",
+  "custom_fields": {
+    "dna": "e65736de89297b476537445345ff68d6e8b17e46",
+    "edition": 17,
+    "date": 1643086655368,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Banana Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Weed Eyes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Heart Fade"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None "
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Diamond Grills"
+    }
+  ]
+}

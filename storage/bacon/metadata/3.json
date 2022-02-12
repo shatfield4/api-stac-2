@@ -1,0 +1,41 @@
+{
+  "name": "Stoned Apes #3",
+  "description": "Stoned Apes description",
+  "file_url": "ipfs://NewUriToReplace/3.png",
+  "custom_fields": {
+    "dna": "c69de27d3bb59ee89a4aed652d2fd96cc00885ea",
+    "edition": 3,
+    "date": 1643086597801,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Ocean Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Marijuana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Budhawk"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None "
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blunt"
+    }
+  ]
+}

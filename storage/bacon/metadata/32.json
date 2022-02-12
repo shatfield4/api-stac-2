@@ -1,0 +1,41 @@
+{
+  "name": "Stoned Apes #32",
+  "description": "Stoned Apes description",
+  "file_url": "ipfs://NewUriToReplace/32.png",
+  "custom_fields": {
+    "dna": "9561295284c8bd15cee27ceaa5164f7098ef2a20",
+    "edition": 32,
+    "date": 1643086713696,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Mafia Suit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Third Eye"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Bag"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None "
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Joint"
+    }
+  ]
+}

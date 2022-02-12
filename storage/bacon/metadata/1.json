@@ -1,0 +1,41 @@
+{
+  "name": "Stoned Apes #1",
+  "description": "Stoned Apes description",
+  "file_url": "ipfs://NewUriToReplace/1.png",
+  "custom_fields": {
+    "dna": "9b1882b660dc01773e21815150ac97d1c3190f8b",
+    "edition": 1,
+    "date": 1643086589368,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Leather Jacket"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Chrome Glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Beanie"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None "
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "O Puff"
+    }
+  ]
+}

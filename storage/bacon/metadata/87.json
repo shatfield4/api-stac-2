@@ -1,0 +1,41 @@
+{
+  "name": "Stoned Apes #87",
+  "description": "Stoned Apes description",
+  "file_url": "ipfs://NewUriToReplace/87.png",
+  "custom_fields": {
+    "dna": "c079268947a55310e5e8a66106b207535f041857",
+    "edition": 87,
+    "date": 1643086937619,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Ocean Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Base Ape"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Fur Coat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rainbow Anime"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Weed Saiyan"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None "
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold Pipe"
+    }
+  ]
+}

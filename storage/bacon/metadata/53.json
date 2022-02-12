@@ -1,0 +1,41 @@
+{
+  "name": "Stoned Apes #53",
+  "description": "Stoned Apes description",
+  "file_url": "ipfs://NewUriToReplace/53.png",
+  "custom_fields": {
+    "dna": "9a8b6b0772e96c2223806b6a818db6c5511ff24f",
+    "edition": 53,
+    "date": 1643086799441,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tank Top"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Weed Saiyan"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None "
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Weed Beard"
+    }
+  ]
+}

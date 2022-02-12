@@ -1,0 +1,45 @@
+{
+  "name": "Stoned Apes #22",
+  "description": "Stoned Apes description",
+  "file_url": "ipfs://NewUriToReplace/22.png",
+  "custom_fields": {
+    "dna": "0381ab414ac9245d9348d11502b81c317470c10c",
+    "edition": 22,
+    "date": 1641807013976,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Base Ape"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Navy Uniform"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry Twitch"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None "
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Warrant"
+    },
+    {
+      "trait_type": "Head",
+      "value": "DEA Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Whistle"
+    }
+  ]
+}
