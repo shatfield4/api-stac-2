@@ -1,7 +1,7 @@
 import os
 import json
 
-path = 'C:\\Users\\Sean Hatfield\\Desktop\\stac-api\\api-stac-2\\storage\\cop\\metadata\\'
+path = 'C:\\Users\\Sean Hatfield\\Desktop\\stac-api\\api-stac-2\\storage\\bacon\\metadata\\'
 directory = os.fsencode(path)
 
 uploadedUri = "QmdNkShw64QsKs5CokKq1NCrWCMorJRK8DwgMFxeWsrGCe"
@@ -11,15 +11,15 @@ for file in os.listdir(directory):
     if filename.endswith('.json'):
         with open(path + filename, 'r+') as f:
             data = json.load(f)
-            # currentUri = data['file_url']
+            currentUri = data['file_url']
 
-            # replacedUri = currentUri.replace('NewUriToReplace', uploadedUri)
-            # data['file_url'] = replacedUri
+            replacedUri = currentUri.replace('ipfs://QmSR3fsyJ7CTipHMv93wG5HFvUrK29JiTSLiz6PhcNduqa', 'http://128.199.2.204')
+            data['file_url'] = replacedUri
 
-            currentUri = data['name']
+            # currentUri = data['name']
 
-            replacedUri = currentUri.replace('Stoned Apes', 'Fed Ape')
-            data['name'] = replacedUri
+            # replacedUri = currentUri.replace('Stoned Apes', 'Fed Ape')
+            # data['name'] = replacedUri
 
             f.seek(0)
             json.dump(data, f, indent=4)

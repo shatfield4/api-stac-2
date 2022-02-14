@@ -1,41 +1,72 @@
-{
-    "name": "Stoned Apes #2",
+[
+  {
+    "name": "Stoned Ape #1",
     "description": "Stoned Apes description",
-    "file_url": "ipfs://QmSR3fsyJ7CTipHMv93wG5HFvUrK29JiTSLiz6PhcNduqa/2.png",
-    "custom_fields": {
-        "dna": "ea4ceec14a7c31dd8af7127534ab329ffa38deaa",
-        "edition": 2,
-        "date": 1643086593515,
-        "compiler": "HashLips Art Engine"
-    },
+    "file_url": "http://128.199.2.204/1.png",
     "attributes": [
-        {
-            "trait_type": "Background",
-            "value": "Ocean Blue"
-        },
-        {
-            "trait_type": "Skin",
-            "value": "Blue"
-        },
-        {
-            "trait_type": "Clothes",
-            "value": "Mafia Suit"
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Sunglasses"
-        },
-        {
-            "trait_type": "Head",
-            "value": "Bucket Hat"
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "None "
-        },
-        {
-            "trait_type": "Mouth",
-            "value": "Gas Bong"
-        }
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Weed Bud"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "None "
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Chrome Glasses"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Snakeband"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "None "
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "O Puff"
+      }
     ]
-}
+  },
+  {
+    "name": "Stoned Ape #2",
+    "description": "Stoned Apes description",
+    "file_url": "http://128.199.2.204/2.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Leather Jacket"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green Glow"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Double Buns"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "None "
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Gold Teeth"
+      }
+    ]
+  }
+]

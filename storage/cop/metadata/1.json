@@ -1,45 +1,41 @@
-{
-    "name": "Fed Ape #1",
+[
+  {
+    "name": "Stoned Apes #1",
     "description": "Stoned Apes description",
-    "file_url": "ipfs://NewUriToReplace/1.png",
-    "custom_fields": {
-        "dna": "52c55bbd57192b999a3f90579a4bc51bd30c579a",
-        "edition": 1,
-        "date": 1641806905999,
-        "compiler": "HashLips Art Engine"
-    },
+    "file_url": "http://128.199.2.204/1.png",
     "attributes": [
-        {
-            "trait_type": "Background",
-            "value": "Pink"
-        },
-        {
-            "trait_type": "Skin",
-            "value": "Base Ape"
-        },
-        {
-            "trait_type": "Clothes",
-            "value": "Navy Uniform"
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "3rd Weed Eye"
-        },
-        {
-            "trait_type": "Glasses",
-            "value": "Nerd Glasses "
-        },
-        {
-            "trait_type": "Accessory",
-            "value": "Warrant"
-        },
-        {
-            "trait_type": "Head",
-            "value": "Police Hat"
-        },
-        {
-            "trait_type": "Mouth",
-            "value": "Handcuffs"
-        }
+      {
+        "trait_type": "Background",
+        "value": "Juicy Pink"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Base Ape"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Light Blue Uniform"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Vein"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "None "
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "Warrant"
+      },
+      {
+        "trait_type": "Head",
+        "value": "FBI Hat"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Badge"
+      }
     ]
-}
+  }
+]
