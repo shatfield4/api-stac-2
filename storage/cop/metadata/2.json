@@ -1,80 +1,42 @@
-[
-  {
-    "name": "Stoned Apes #1",
-    "description": "Stoned Apes description",
-    "file_url": "http://128.199.2.204/1.png",
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Juicy Pink"
-      },
-      {
-        "trait_type": "Skin",
-        "value": "Base Ape"
-      },
-      {
-        "trait_type": "Clothes",
-        "value": "Light Blue Uniform"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Red Vein"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "None "
-      },
-      {
-        "trait_type": "Accessory",
-        "value": "Warrant"
-      },
-      {
-        "trait_type": "Head",
-        "value": "FBI Hat"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "Badge"
-      }
-    ]
+{
+  "name": "Fed Ape #2",
+  "description": "Stoned Apes description",
+  "file_url": "http://128.199.2.204/2.png",
+  "custom_fields": {
+    "edition": 2
   },
-  {
-    "name": "Stoned Apes #2",
-    "description": "Stoned Apes description",
-    "file_url": "http://128.199.2.204/2.png",
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Skin",
-        "value": "Base Ape"
-      },
-      {
-        "trait_type": "Clothes",
-        "value": "Black Uniform"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Weed Eyes"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "Police Aviator Glasses "
-      },
-      {
-        "trait_type": "Accessory",
-        "value": "Warrant"
-      },
-      {
-        "trait_type": "Head",
-        "value": "DEA Hat"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "Whistle"
-      }
-    ]
-  }
-]
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Base Ape"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bulletproof Vest"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Vein"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Green Laser "
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Baton"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FBI Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Whistle"
+    }
+  ]
+}

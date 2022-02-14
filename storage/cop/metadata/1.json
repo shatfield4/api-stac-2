@@ -1,41 +1,42 @@
-[
-  {
-    "name": "Stoned Apes #1",
-    "description": "Stoned Apes description",
-    "file_url": "http://128.199.2.204/1.png",
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Juicy Pink"
-      },
-      {
-        "trait_type": "Skin",
-        "value": "Base Ape"
-      },
-      {
-        "trait_type": "Clothes",
-        "value": "Light Blue Uniform"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Red Vein"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "None "
-      },
-      {
-        "trait_type": "Accessory",
-        "value": "Warrant"
-      },
-      {
-        "trait_type": "Head",
-        "value": "FBI Hat"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "Badge"
-      }
-    ]
-  }
-]
+{
+  "name": "Fed Ape #1",
+  "description": "Stoned Apes description",
+  "file_url": "http://128.199.2.204/1.png",
+  "custom_fields": {
+    "edition": 1
+  },
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Base Ape"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Light Blue Uniform"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Vein"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Green Laser "
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Warrant"
+    },
+    {
+      "trait_type": "Head",
+      "value": "DEA Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Handcuffs"
+    }
+  ]
+}

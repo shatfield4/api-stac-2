@@ -1,197 +1,42 @@
-[
-  {
-    "name": "Stoned Apes #1",
-    "description": "Stoned Apes description",
-    "file_url": "http://128.199.2.204/1.png",
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Juicy Pink"
-      },
-      {
-        "trait_type": "Skin",
-        "value": "Base Ape"
-      },
-      {
-        "trait_type": "Clothes",
-        "value": "Light Blue Uniform"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Red Vein"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "None "
-      },
-      {
-        "trait_type": "Accessory",
-        "value": "Warrant"
-      },
-      {
-        "trait_type": "Head",
-        "value": "FBI Hat"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "Badge"
-      }
-    ]
+{
+  "name": "Fed Ape #5",
+  "description": "Stoned Apes description",
+  "file_url": "http://128.199.2.204/5.png",
+  "custom_fields": {
+    "edition": 5
   },
-  {
-    "name": "Stoned Apes #2",
-    "description": "Stoned Apes description",
-    "file_url": "http://128.199.2.204/2.png",
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Skin",
-        "value": "Base Ape"
-      },
-      {
-        "trait_type": "Clothes",
-        "value": "Black Uniform"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Weed Eyes"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "Police Aviator Glasses "
-      },
-      {
-        "trait_type": "Accessory",
-        "value": "Warrant"
-      },
-      {
-        "trait_type": "Head",
-        "value": "DEA Hat"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "Whistle"
-      }
-    ]
-  },
-  {
-    "name": "Stoned Apes #3",
-    "description": "Stoned Apes description",
-    "file_url": "http://128.199.2.204/3.png",
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Skin",
-        "value": "Base Ape"
-      },
-      {
-        "trait_type": "Clothes",
-        "value": "Navy Uniform"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Happy High"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "None "
-      },
-      {
-        "trait_type": "Accessory",
-        "value": "Baton"
-      },
-      {
-        "trait_type": "Head",
-        "value": "Police Hat"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "Whistle"
-      }
-    ]
-  },
-  {
-    "name": "Stoned Apes #4",
-    "description": "Stoned Apes description",
-    "file_url": "http://128.199.2.204/4.png",
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Yellow"
-      },
-      {
-        "trait_type": "Skin",
-        "value": "Base Ape"
-      },
-      {
-        "trait_type": "Clothes",
-        "value": "Navy Uniform"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Red Vein"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "None "
-      },
-      {
-        "trait_type": "Accessory",
-        "value": "Warrant"
-      },
-      {
-        "trait_type": "Head",
-        "value": "Police Hat"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "Whistle"
-      }
-    ]
-  },
-  {
-    "name": "Stoned Apes #5",
-    "description": "Stoned Apes description",
-    "file_url": "http://128.199.2.204/5.png",
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Blue"
-      },
-      {
-        "trait_type": "Skin",
-        "value": "Base Ape"
-      },
-      {
-        "trait_type": "Clothes",
-        "value": "Navy Uniform"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Happy High"
-      },
-      {
-        "trait_type": "Glasses",
-        "value": "Nerd Glasses "
-      },
-      {
-        "trait_type": "Accessory",
-        "value": "Warrant"
-      },
-      {
-        "trait_type": "Head",
-        "value": "FBI Hat"
-      },
-      {
-        "trait_type": "Mouth",
-        "value": "Handcuffs"
-      }
-    ]
-  }
-]
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Base Ape"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Black Uniform"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy High"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Green Laser "
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Warrant"
+    },
+    {
+      "trait_type": "Head",
+      "value": "DEA Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Badge"
+    }
+  ]
+}
