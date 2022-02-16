@@ -1,42 +1,35 @@
 {
-  "name": "Fed Ape #89",
-  "description": "Stoned Apes description",
-  "file_url": "http://128.199.2.204/89.png",
-  "custom_fields": {
-    "edition": 89
-  },
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Ocean Blue"
-    },
-    {
-      "trait_type": "Skin",
-      "value": "Base Ape"
-    },
-    {
-      "trait_type": "Clothes",
-      "value": "Navy Uniform"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Glowing Green"
-    },
-    {
-      "trait_type": "Glasses",
-      "value": "Green Laser "
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Baton"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Police Hat"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Badge"
-    }
-  ]
+    "name": "Fed Ape #89",
+    "description": "In a metaverse nearby cannabis has been made illegal to the point where the only way to obtain some quality kush is to risk it all and grow it yourself. These brave Stoned Apes are passionate in growing and smoking cannabis, so they built secret grow houses and are growing $TOKE daily. In the hopes of having plentiful weed to smoke and cash to stash away. Thousands Stoned Apes and Feds compete on the streets of the metaverse. Dynamic PVP staking game based on wolf.game. On-chain game. Your NFT is also a ticket to our evergrowing community of cannabis & real estate investors and enthusiasts.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Ocean Blue "
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Red "
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "DEA Jacket"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Happy High "
+        },
+        {
+            "trait_type": "Head",
+            "value": "DEA Hat"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Warrant"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Whistle"
+        }
+    ],
+    "image": "https://api.stonedapeclub.com/89.png"
 }

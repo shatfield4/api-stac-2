@@ -1,38 +1,35 @@
 {
-  "name": "Stoned Ape #60",
-  "description": "Stoned Apes description",
-  "file_url": "http://128.199.2.204/60.png",
-  "custom_fields": {
-    "edition": 60
-  },
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Green"
-    },
-    {
-      "trait_type": "Skin",
-      "value": "Cyborg"
-    },
-    {
-      "trait_type": "Clothes",
-      "value": "Banana Shirt"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Green Glow"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Straw Hat"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "None "
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Puff_"
-    }
-  ]
+    "name": "Stoned Ape #60",
+    "description": "In a metaverse nearby cannabis has been made illegal to the point where the only way to obtain some quality kush is to risk it all and grow it yourself. These brave Stoned Apes are passionate in growing and smoking cannabis, so they built secret grow houses and are growing $TOKE daily. In the hopes of having plentiful weed to smoke and cash to stash away. Thousands Stoned Apes and Feds compete on the streets of the metaverse. Dynamic PVP staking game based on wolf.game. On-chain game. Your NFT is also a ticket to our evergrowing community of cannabis & real estate investors and enthusiasts.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Juicy Pink "
+        },
+        {
+            "trait_type": "Skin",
+            "value": "White Fur "
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Hawaiian Shirt "
+        },
+        {
+            "trait_type": "Head",
+            "value": "Red Hombre "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sunglasses "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "None "
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Donut "
+        }
+    ],
+    "image": "https://api.stonedapeclub.com/60.png"
 }

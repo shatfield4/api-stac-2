@@ -1,38 +1,35 @@
 {
-  "name": "Stoned Ape #145",
-  "description": "Stoned Apes description",
-  "file_url": "http://128.199.2.204/145.png",
-  "custom_fields": {
-    "edition": 145
-  },
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Green"
-    },
-    {
-      "trait_type": "Skin",
-      "value": "Blue Sparkle"
-    },
-    {
-      "trait_type": "Clothes",
-      "value": "Farmer Overalls"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Heart Glasses"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Red Headband"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "None "
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Donut"
-    }
-  ]
+    "name": "Stoned Ape #145",
+    "description": "In a metaverse nearby cannabis has been made illegal to the point where the only way to obtain some quality kush is to risk it all and grow it yourself. These brave Stoned Apes are passionate in growing and smoking cannabis, so they built secret grow houses and are growing $TOKE daily. In the hopes of having plentiful weed to smoke and cash to stash away. Thousands Stoned Apes and Feds compete on the streets of the metaverse. Dynamic PVP staking game based on wolf.game. On-chain game. Your NFT is also a ticket to our evergrowing community of cannabis & real estate investors and enthusiasts.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Green "
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Zombie "
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Rolling Stoner "
+        },
+        {
+            "trait_type": "Head",
+            "value": "STAC Hat "
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "High "
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Fanny Pack "
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Weed Beard "
+        }
+    ],
+    "image": "https://api.stonedapeclub.com/145.png"
 }

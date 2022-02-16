@@ -61,11 +61,9 @@ func (service *NFTQueryService) GetGameStatus(ctx context.Context) types.GameSta
 // GetNFTByID retrieves the nft provided by its id
 func (service *NFTQueryService) GetNFTByID(ctx context.Context, ID int64) map[string]interface{} {
 	placeHolderMetadata := map[string]interface{}{
-		"name":         "STAC",
-		"description":  "Stoned Aped Club",
-		"image":        "ipfs://QmPUCaXzKjGzzFte3UoQHTBiRAxsvfVj222CiiGCSFK6CF",
-		"external_url": "ipfs://QmPUCaXzKjGzzFte3UoQHTBiRAxsvfVj222CiiGCSFK6CF",
-		"attributes":   []string{},
+		"name":        "Stoned Ape Club",
+		"description": "In a metaverse nearby cannabis has been made illegal to the point where the only way to obtain some quality kush is to risk it all and grow it yourself. These brave Stoned Apes are passionate in growing and smoking cannabis, so they built secret grow houses and are growing $TOKE daily. In the hopes of having plentiful weed to smoke and cash to stash away. Thousands Stoned Apes and Feds compete on the streets of the metaverse. Dynamic PVP staking game based on wolf.game. On-chain game. Your NFT is also a ticket to our evergrowing community of cannabis & real estate investors and enthusiasts.",
+		"attributes":  []string{},
 	}
 
 	// check if token id is minted

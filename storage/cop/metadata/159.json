@@ -1,0 +1,35 @@
+{
+    "name": "Fed Ape #159",
+    "description": "In a metaverse nearby cannabis has been made illegal to the point where the only way to obtain some quality kush is to risk it all and grow it yourself. These brave Stoned Apes are passionate in growing and smoking cannabis, so they built secret grow houses and are growing $TOKE daily. In the hopes of having plentiful weed to smoke and cash to stash away. Thousands Stoned Apes and Feds compete on the streets of the metaverse. Dynamic PVP staking game based on wolf.game. On-chain game. Your NFT is also a ticket to our evergrowing community of cannabis & real estate investors and enthusiasts.",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Green "
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Cyborg "
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Light Blue Uniform"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Nerd Glasses "
+        },
+        {
+            "trait_type": "Head",
+            "value": "Police Hat"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Warrant"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Whistle"
+        }
+    ],
+    "image": "https://api.stonedapeclub.com/159.png"
+}
