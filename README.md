@@ -1,4 +1,4 @@
-# Gomora dApp
+# STAC Backend Web3 Go API
 A Gomora template for building dApps and web3-powered API and smart contract listeners
 
 ## Local Development
